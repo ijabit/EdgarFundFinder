@@ -1,0 +1,6 @@
+@EdgarFundFinder.Api_HostAddress = http://localhost:5143
+
+GET {{EdgarFundFinder.Api_HostAddress}}/company/
+Accept: application/json
+
+###
